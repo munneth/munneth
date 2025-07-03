@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Munneth</h1>
-<h3 align="center">Looking for something new to build!</h3>
+<!-- <h1 align="center">Hi 👋, I'm Munneth</h1> -->
+<!-- <h3 align="center">Looking for something new to build!</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munneth&label=Profile%20views&color=0e75b6&style=flat" alt="munneth" /> </p>
 
